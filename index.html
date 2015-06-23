@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Neo4j PubNub</title>
+    <script src="index.js" charset="utf-8"></script>
+    <script src="jquery.js" charset="utf-8"></script>
+    <script src="http://cdn.pubnub.com/pubnub-3.7.12.min.js"></script>
+  </head>
+  <body>
+    <h1>Delhi - Mumbai Train</h1>
+
+    <div id="train-1">
+      <span> Available Seats - <span id="number"></span></span>
+      <input type="button" name="book-1" value="Book" id="book">
+    </div>
+
+<!--     <div id="train-2">
+  <span> Available Seats - 20</span>
+  <input type="button" name="book-2" value="Book">
+</div> -->
+
+  </body>
+  <script type="text/javascript">
+  $( document ).ready(function() {
+    var pubnub = PUBNUB({
+        publish_key   : 'demo',
+        subscribe_key : 'demo'
+    });
+
+    console.log("Subscribing..");
+    pubnub.subscribe({
+        channel : "neo4j",
+        message : function(message,env,ch,timer,magic_ch){
+          $("#number")[0].innerHTML = (JSON.stringify(message.seats_left));
+        }
+    })
+    // $("#number")[0].innerHTML = JSON.stringify(message);
+  });
+
+  </script>
+
+</html>
