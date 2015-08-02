@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc116515-2c77-49ef-a94f-74f4237ff902" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/lib/async.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/sorter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lib/async.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/lib/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/sort-arrow-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/coverage/sorter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/nyc_output/5074.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/has-ansi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/supports-color" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/cache.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/cacheEntry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/content.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/cookie.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/creator.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/entry.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/har.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/log.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/page.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/pageTimings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/postData.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/record.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/request.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/response.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/src/schemas/timings.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/index.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/.jscs.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/.jscs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/.npmignore" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/CHANGELOG" afterPath="$PROJECT_DIR$/node_modules/pubnub/CHANGELOG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/LICENSE" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/LICENSE" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/LICENSE" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/README.md" afterPath="$PROJECT_DIR$/node_modules/pubnub/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/README.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/Readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_duplex.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_passthrough.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_readable.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_transform.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_writable.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/async.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/bind.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/bind.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.min.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/browser.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/browser.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/captured_trace.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/captured_trace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/catch_filter.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/catch_filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/changelog.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/changelog.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/client.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/component.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/crypto.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/crypto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/db.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/debuggability.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/debuggability.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/direct_resolve.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/direct_resolve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/finally.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/finally.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/lib/form_data.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/lib/form_data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/node.js/examples/hello.js" afterPath="$PROJECT_DIR$/node_modules/pubnub/node.js/examples/hello.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/helpers.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/caseless/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/caseless/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tunnel-agent/index.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tunnel-agent/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/map.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/nodeify.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/nodeify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/oauth.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/oauth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/package.json" afterPath="$PROJECT_DIR$/node_modules/pubnub/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/caseless/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/caseless/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/extend/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/node_modules/boom/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/node_modules/boom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/json-stringify-safe/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/json-stringify-safe/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tough-cookie/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tough-cookie/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tunnel-agent/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/tunnel-agent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/thunkify/package.json" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/thunkify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/lib/parse.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/lib/parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/test/parse.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/test/parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promise.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promisify.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promisify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/node.js/pubnub.js" afterPath="$PROJECT_DIR$/node_modules/pubnub/node.js/pubnub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/readable.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/bl/node_modules/readable-stream/readable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/readme.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/readme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/readme.md" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/redirect.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/lib/redirect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/reduce.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/reduce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/request.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/schedule.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/schedule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/server.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/server.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/node.js/tests/ssl_test.js" afterPath="$PROJECT_DIR$/node_modules/pubnub/node.js/tests/ssl_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/test/stringify.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/test/stringify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/node.js/examples/subscribe_wildcard.js" afterPath="$PROJECT_DIR$/node_modules/pubnub/node.js/examples/subscribe_wildcard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/support/sync-package-managers.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/form-data/node_modules/async/support/sync-package-managers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pubnub/node.js/tests/test.js" afterPath="$PROJECT_DIR$/node_modules/pubnub/node.js/tests/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/thenables.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/thenables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/uri.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/uri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/example/usage.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/example/usage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/util.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/utils.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/hawk/test/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/seraph/node_modules/request/node_modules/qs/lib/utils.js" />
+    </list>
+    <ignored path="neo4j-pubnub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="neo4j-pubnub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9395248">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index-crud.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neo4j-pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neo4j-pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neo4j-pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neo4j-pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neo4j-pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc116515-2c77-49ef-a94f-74f4237ff902" name="Default" comment="" />
+      <created>1438516104433</created>
+      <option name="number" value="Default" />
+      <updated>1438516104433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329235" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18189038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329235" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5125285">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-crud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.37365">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9395248">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
