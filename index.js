@@ -5,7 +5,7 @@ var pubnub = require("pubnub")({
     publish_key: 'demo'    // only required if publishing
 });
 
-var train;
+var train, tra;
 
 // Update node
 // ----------------------
@@ -22,7 +22,7 @@ function update_node() {
       train["availableSeats"]--; //reduces number of seats by 1
       db.save(train, function(err, node) {
         pubnub.publish({  //publishing the updated seat numbers through PubNub, in 'neo4j' channel
-          channel: 'neo4j',
+          channel: "neo4j",
           message: {"seats_left": node["availableSeats"]}, //this is the message payload we are sending
           callback: function(m){console.log(m)}
         });
@@ -35,9 +35,9 @@ function update_node() {
 update_node();
 
 
-//CREATE(:Train{name: "Train-1", availableSeats: 15})
-//CREATE(:City{name: "Mumbai"})
-//CREATE(:City{name: "Delhi"})
-
-//MATCH (d:City{name:"Delhi"}), (t:Train{name:"Train-1"}) CREATE (d)-[:ORIGIN]->(t)
-//MATCH (m:City{name:"Mumbai"}), (t:Train{name:"Train-1"}) CREATE (t)-[:DESTINATION]->(m)
+// CREATE(:Train{name: "Train-1", availableSeats: 50})
+// CREATE(:City{name: "Mumbai"})
+// CREATE(:City{name: "Delhi"})
+//
+// MATCH (d:City{name:"Delhi"}), (t:Train{name:"Train-1"}) CREATE (d)-[:ORIGIN]->(t)
+// MATCH (m:City{name:"Mumbai"}), (t:Train{name:"Train-1"}) CREATE (t)-[:DESTINATION]->(m)

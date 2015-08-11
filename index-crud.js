@@ -135,7 +135,7 @@ update_node();
 // find_seats();
 
 
-//START n = node(*)
-//OPTIONAL MATCH n-[r]-()
-//WHERE (ID(n)>0 AND ID(n)<10000)
-//DELETE n, r;
+// START n = node(*)
+// OPTIONAL MATCH n-[r]-()
+// WHERE (ID(n)>0 AND ID(n)<10000)
+// DELETE n, r;
